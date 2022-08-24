@@ -33,7 +33,7 @@ Due to the high number of the low_risk population, its precision is almost 100% 
 ## Combination (Over and Under) Sampling
 ![](https://user-images.githubusercontent.com/101672943/186323941-50346dd5-709a-4415-aa66-a3e9cd29fe50.png)
 
-##Balanced Random Forest Classifier & Easy Ensemble AdaBoost Classifier
+## Balanced Random Forest Classifier & Easy Ensemble AdaBoost Classifier
 ![](https://user-images.githubusercontent.com/101672943/186324430-a6ad8a32-3a4d-4eb4-b1d5-918669727be8.png)
 
 Unfortunatelly, for this model I received an AttributeError and wasn't able to complete an Balanced Random Forest & Easy Ensemble AdaBoost Classifier models...
