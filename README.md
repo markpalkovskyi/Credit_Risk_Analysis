@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 ## Overview 
 For this project, we used Python to build and evaluate several machine learning models to predict credit risk. All work were made in Jupyter Notebook.
 The following procedure steps:
